@@ -1,0 +1,32 @@
+body{
+	background-color: lightgoldenrodyellow;
+	margin: 25px;
+}
+
+.titleHeading{
+	text-align: center;
+}
+
+.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+.imageInsidePolaroid{
+	padding-top: 20px;
+}
+
+div.polaroid {
+  	width: 100%;
+  	background-color: grey;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	margin-bottom: 25px;
+}
+
+div.container {
+  	text-align: center;
+  	padding: 10px 20px;
+}
+
+
